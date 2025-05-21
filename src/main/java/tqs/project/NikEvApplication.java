@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NikEvApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NikEvApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(NikEvApplication.class, args);
+    }
 }
